@@ -17,8 +17,6 @@ In the case of the code competitions, see [小ネタ：pathlib.Path と Kaggle N
 # Feature Creation
 
 - [Kaggleで使えるFeather形式を利用した特徴量管理法](https://amalog.hateblo.jp/entry/kaggle-feature-management)
-- 
-
 
 # Others
 
